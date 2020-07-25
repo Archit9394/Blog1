@@ -1,4 +1,4 @@
-# Blog1
+# Blog
 
 ## Getting Started
 ### Setting up the environment
